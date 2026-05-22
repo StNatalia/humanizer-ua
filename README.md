@@ -1,4 +1,4 @@
-# Humanizer UK
+# Humanizer UA
 
 Skill для Claude Code, який видаляє ознаки AI-генерації з українського тексту, робить його живим і людяним.
 
@@ -6,20 +6,20 @@ Skill для Claude Code, який видаляє ознаки AI-генерац
 
 ### Рекомендований спосіб
 ```bash
-git clone https://github.com/StNatalia/humanizer-uk.git ~/.claude/skills/humanizer-uk
+git clone https://github.com/StNatalia/humanizer-ua.git ~/.claude/skills/humanizer-ua
 ```
 
 ### Ручне встановлення
 ```bash
-mkdir -p ~/.claude/skills/humanizer-uk
-curl -o ~/.claude/skills/humanizer-uk/SKILL.md https://raw.githubusercontent.com/StNatalia/humanizer-uk/main/SKILL.md
+mkdir -p ~/.claude/skills/humanizer-ua
+curl -o ~/.claude/skills/humanizer-ua/SKILL.md https://raw.githubusercontent.com/StNatalia/humanizer-ua/main/SKILL.md
 ```
 
 ## Використання
 
 В Claude Code:
 ```
-/humanizer-uk
+/humanizer-ua
 [вставте ваш текст]
 ```
 
